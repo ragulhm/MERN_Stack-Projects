@@ -1,0 +1,5 @@
+{
+  "name": "MERN Stack Portfolio",
+  "description": "A responsive and dynamic portfolio website built with React, simulating a full MERN stack. It features a public portfolio and a secure admin dashboard for content management, with mocked data and authentication.",
+  "requestFramePermissions": []
+}

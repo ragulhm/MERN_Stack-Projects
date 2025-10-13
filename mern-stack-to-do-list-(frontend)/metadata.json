@@ -1,0 +1,5 @@
+{
+  "name": "MERN Stack To-Do List (Frontend)",
+  "description": "A full-featured To-Do List Management System frontend built with React and Tailwind CSS. This application allows users to perform full CRUD operations (Create, Read, Update, Delete) on their tasks. All data is persisted in the browser's local storage to simulate a backend database experience for a single user.",
+  "requestFramePermissions": []
+}

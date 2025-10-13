@@ -1,0 +1,5 @@
+{
+  "name": "Classified Ads Platform",
+  "description": "A modern, full-featured classified ads platform similar to OLX, built with React and Tailwind CSS. It allows users to browse, search, post ads, and chat with sellers in real-time.",
+  "requestFramePermissions": []
+}
